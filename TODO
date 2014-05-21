@@ -1,0 +1,6 @@
+matrix.py:
+- Add num_rows()
+- Add num_cols()
+- Add is_square()
+- Refactor to use Fractions rather than floats
+- Add to_float_vals()
